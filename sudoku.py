@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+
 import sys
 # defaultdict creates empty values in dict to avoid "missing" errors
 from collections import defaultdict
