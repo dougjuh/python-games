@@ -109,7 +109,7 @@ def get_puzzle(source):
 
     if source == 'manual':
         print()
-        print('Enter nine ines each with nine digits or spaces')
+        print('Enter nine lines each with nine digits or spaces')
         print('Use zero or space to indicate an epmpty cell')
         savefile = input('Save data in file (optional): ')
         if savefile != '':
